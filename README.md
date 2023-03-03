@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left">
-  <a href="https://github.com/20jun01/20jun01/">
+  <a href="https://github.com/20jun01/">
     <img src="https://komarev.com/ghpvc/?username=20jun01" alt="20jun01" />
   </a>
   
